@@ -1,6 +1,6 @@
 #Ejemplo de README
 
-# Título del Proyecto
+# Curso SQL
 
 _Acá va un párrafo que describa lo que es el proyecto_
 
